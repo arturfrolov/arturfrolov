@@ -14,10 +14,10 @@ I’m a **Front-End Developer**. I build responsive, accessible interfaces, inte
 
 ## 🛠️ Tech & Tools
 
-### Core Stack  
+### Core Stack
 [![Core Stack](https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,html,css,sass&theme=light)](https://skillicons.dev)
 
-### UI / State Libraries  
+### UI
 [![UI / State Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap&theme=light)](https://skillicons.dev)
 
 #### Build / Bundlers
