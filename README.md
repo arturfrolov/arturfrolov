@@ -20,8 +20,17 @@ I’m a **Front-End Developer**. I build responsive, accessible interfaces, inte
 ### UI / State Libraries  
 [![UI / State Libraries](https://skillicons.dev/icons?i=redux,tailwind,bootstrap&theme=light)](https://skillicons.dev)
 
-### Build / DevOps  
-[![Build / DevOps](https://skillicons.dev/icons?i=vite,webpack,docker,git,github,figma,ubuntu&theme=light)](https://skillicons.dev)
+#### Build / Bundlers
+[![Build](https://skillicons.dev/icons?i=vite,webpack&theme=light)](https://skillicons.dev)
+
+#### CI
+[![DevOps](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+
+#### Version Control
+[![VCS](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
+
+#### Design
+[![Design](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
 ---
 
