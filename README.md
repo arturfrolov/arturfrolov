@@ -18,7 +18,7 @@ I’m a **Front-End Developer**. I build responsive, accessible interfaces, inte
 [![Core Stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,sass&theme=light)](https://skillicons.dev)
 
 ### UI / State Libraries  
-[![UI / State Libraries](https://skillicons.dev/icons?i=redux,tailwind,framer,bootstrap&theme=light)](https://skillicons.dev)
+[![UI / State Libraries](https://skillicons.dev/icons?i=redux,tailwind,bootstrap&theme=light)](https://skillicons.dev)
 
 ### Build / DevOps  
 [![Build / DevOps](https://skillicons.dev/icons?i=vite,webpack,docker,git,github,figma,ubuntu&theme=light)](https://skillicons.dev)
@@ -28,7 +28,6 @@ I’m a **Front-End Developer**. I build responsive, accessible interfaces, inte
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arturfrolov&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturfrolov&layout=compact&theme=algolia" />
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arturfrolov&theme=algolia&layout=compact")
 </p>
 
