@@ -1,12 +1,34 @@
-### My name is Artur 👋
-I am 27 years old. I have been doing programming for about 1 years, trying out different technologies.
-___
-### 💻 Tech Stack:
+# Hi, I'm Artur 👋
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=SASS)&nbsp;
-___
-![arturfrolov GitHub stats](https://github-readme-stats.vercel.app/api?username=arturfrolov&theme=tokyonight&show_icons=true)<br>
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arturfrolov&theme=algolia&layout=compact")
+## 🚀 About Me
+
+I’m a **Front-End Developer**. I build responsive, accessible interfaces, integrate them with back-ends, and continuously refine my skills by exploring new technologies and UI/UX approaches.
+
+- Advocate of clean, semantic code and mobile-first layout  
+- Fond of BEM, SCSS, and design systems  
+- Always open to interesting projects and teams where we can grow together 
+
+**Commercial experience: 2 years** 
+
+---
+
+## 🛠️ Tech & Tools
+
+### Core Stack  
+[![Core Stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,sass&theme=light)](https://skillicons.dev)
+
+### UI / State Libraries  
+[![UI / State Libraries](https://skillicons.dev/icons?i=redux,tailwind,framer,bootstrap&theme=light)](https://skillicons.dev)
+
+### Build / DevOps  
+[![Build / DevOps](https://skillicons.dev/icons?i=vite,webpack,docker,git,github,figma,ubuntu&theme=light)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arturfrolov&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturfrolov&layout=compact&theme=algolia" />
+</p>
+
