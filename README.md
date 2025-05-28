@@ -27,10 +27,7 @@ I’m a **Front-End Developer**. I build responsive, accessible interfaces, inte
 [![DevOps](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
 
 #### Version Control
-[![VCS](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
-
-#### Design
-[![Design](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
+[![VCS](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&theme=light)](https://skillicons.dev)
 
 ---
 
