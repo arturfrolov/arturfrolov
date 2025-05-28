@@ -26,7 +26,7 @@ I’m a **Front-End Developer**. I build responsive, accessible interfaces, inte
 ---
 
 ## 📊 GitHub Stats
-
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arturfrolov&theme=algolia&layout=compact")
 <p>
   ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arturfrolov&theme=algolia&layout=compact")
 </p>
