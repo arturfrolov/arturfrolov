@@ -8,7 +8,7 @@ I’m a **Front-End Developer**. I build responsive, accessible interfaces, inte
 - Fond of BEM, SCSS, and design systems  
 - Always open to interesting projects and teams where we can grow together 
 
-**Commercial experience: 2 years** 
+**Commercial experience: 3 years** 
 
 ---
 
